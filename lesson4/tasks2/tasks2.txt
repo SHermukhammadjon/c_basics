@@ -12,9 +12,17 @@ konsolga chiqaring.
 3.
 a soni berilgan. a sonini 3ga bo'lgandagi qoldig'ini kansolga chiqaring.
 
-4.Sonning  juft  yoki  toqligini  aniqlang.  Agar  juft bo'lsa 'juft' so'zini return qiling. 
+4.
+Sonning  juft  yoki  toqligini  aniqlang.  Agar  juft bo'lsa 'juft' so'zini return qiling. 
 Agar toq bo'lsa 'toq' so'zini return qiling.
 
 5.
- a va b sonlari berilgan.  Berilgan ikkita sondan kattasini konsolga chiqaring. 
- Agar ular teng bo'lsa 'Voy ular teng' yozuvi chiqsin.
+a va b sonlari berilgan.  Berilgan ikkita sondan kattasini konsolga chiqaring. 
+Agar ular teng bo'lsa 'Voy ular teng' yozuvi chiqsin.
+
+6.
+a, b, c  sonlari berilgan.  Shu sonlardan eng kattasini toping.
+
+7.
+ a soni berilgan. Sonning musbat yoki manfiy ekanligini aniqlang. Son 0 ga teng bo'lsa, 0 ni konsolga chiqaring.
+
