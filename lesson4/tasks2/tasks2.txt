@@ -4,3 +4,7 @@
 Berilgan son 10 dan katta bo'lsa unga 3 ni qo'shib konsolga chiqaring.
 Agar 10 dan kichik bo'lsa 2ga ko'paytirib natijani konsolga chiqaring.
 Agar 10 ga teng bo'lsa 22 sonini konsolga chiqaring.
+
+2.
+Berilgan a sonini 3ga bo'lgandagi butun  qismini b o'zgaruvchiga joylang va b sonini 
+konsolga chiqaring.

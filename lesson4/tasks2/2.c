@@ -8,10 +8,12 @@ int main(){
     printf("Pleas input number: \n>>>");
     scanf("%d", &a);
     // printf("\n%d", a);
-    int b = a % 3;
+    int b = a / 3;
+    int c = a % 3;
     printf("%d", a);
-    printf(" / 3 resudual: ");
+    printf(" / 3 = ");
     printf("%d", b);
+    printf("\nresudual : %d", c);
 
     return 0;
 }
