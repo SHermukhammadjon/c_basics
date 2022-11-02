@@ -9,8 +9,8 @@ int main() {
     printf("iltimos son kiriting\n>>>");  
     scanf("\n%d", &son);
 
-    //printf("\nSiz kiritgan son %d", son);
-    if(son < 10){  //Agar son katt 10 bo'lsa; 
+    //printf("\nSiz kiritgan son %d", son)
+    if(son < 10){//Agar son katt 10 bo'lsa  
         printf("\n%d", son);
         printf(" < 10 \n%d", son);
         printf(" + 3 = %d", son+3);
